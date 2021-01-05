@@ -1,2 +1,3 @@
-# Basic-JQuery
-Prácticas básicas con JQuery
+# Basic JQuery
+
+Prácticas básicas con JQuery.
